@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.6.1] - 2016-12-13
+### Fixed
+* Fix version in package.json
+
 ## [2.6.0] - 2016-09-15
 
 ### Added
